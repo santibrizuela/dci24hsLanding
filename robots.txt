@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dci24hs.com.ar/sitemap.xml
